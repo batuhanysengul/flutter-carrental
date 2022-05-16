@@ -1,0 +1,98 @@
+[
+  {
+    "category": "Elektrikli",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "7",
+    "image": "https://cdn.euroncap.com/media/56148/tesla-model-x.png",
+    "price": 600,
+    "title": "Model X"
+  },
+  {
+    "category": "Elektrikli",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "18",
+    "image": "https://crdms.images.consumerreports.org/c_lfill,w_470,q_auto,f_auto/prod/cars/cr/car-versions/12630-2018-tesla-model-3-long-range",
+    "price": 900,
+    "title": "Model 3"
+  },
+  {
+    "category": "Elektrikli",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "16",
+    "image": "https://cdn.euroncap.com/media/4875/tesla_model_s_2014_uncrashed.jpg",
+    "price": 500,
+    "title": "Model S"
+  },
+  {
+    "category": "Benzin",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "5",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTypyB94G2dGqJqk0pu0Jbqjy4CcjrprqrofXh9krdQpkpCePyZKvTwwmRqjVJ2bLZ78k&usqp=CAU",
+    "price": 695,
+    "title": "Sahin slx"
+  },
+  {
+    "category": "Benzin",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "12",
+    "image": "https://gtrnissanskyline.com/wp-content/uploads/2016/10/r33pic1-1024-768-1-1024x768.jpg",
+    "price": 700,
+    "title": "GTR R-33"
+  },
+  {
+    "category": "Benzin",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "11",
+    "image": "https://i0.wp.com/auto-mania.cz/wp-content/uploads/2021/12/2021-toyota_gr86-1.jpg?resize=640%2C482&ssl=1",
+    "price": 100,
+    "title": "GT86"
+  },
+  {
+    "category": "Benzin",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "15",
+    "image": "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/a/a6/Mazda-rx7-3rd-generation01.jpg/1280px-Mazda-rx7-3rd-generation01.jpg",
+    "price": 200,
+    "title": "RX7"
+  },
+  {
+    "category": "Benzin",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "19",
+    "image": "https://sbimotor.com/uploads/car/images/17574/5151342_carP_l_1_jpg20211221-1535-1xk6mum.jpg",
+    "price": 300,
+    "title": "S14"
+  },
+  {
+    "category": "Benzin",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "6",
+    "image": "https://cdn3.focus.bg/autodata/i/nissan/silvia/silvia-s12/medium/2e8186f17da9f5171c9e22f252d25c49.jpg",
+    "price": 400,
+    "title": "S12"
+  },
+  {
+    "category": "Benzin",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "2",
+    "image": "https://www.motortrend.com/uploads/sites/5/2019/09/1997-Toyota-Supra-Turbo-15th-Anniversary-front-three-quarters-1.jpg?fit=around%7C875:492",
+    "price": 500,
+    "title": "MK4 Supra"
+  },
+  {
+    "category": "Benzin",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "20",
+    "image": "https://pbs.twimg.com/media/EaTLGh5WoAMY67s.jpg",
+    "price": 100,
+    "title": "Uzgun araba"
+  },
+  {
+    "category": "Benzin",
+    "description": "Power- F:259hp R: 503hp Combined: 532hp - Torque F: 244lb-ft R:469 lb-ft Combined: 713 lb-ft",
+    "id": "9",
+    "image": "https://pbs.twimg.com/media/EolDe0XXcAEfhqR.jpg",
+    "price": 100,
+    "title": "Serdar Ortac"
+  }
+]

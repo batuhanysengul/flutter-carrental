@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "302114861904",
+    "project_id": "araba-kiralama-final",
+    "storage_bucket": "araba-kiralama-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302114861904:android:f6971aaa4ba6f5963c3255",
+        "android_client_info": {
+          "package_name": "com.example.arabakiralama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302114861904-kolc1qd68otbpavpiemtl48c9us937cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQIlXa9ptXs-AH2XCrRas09foa7LHrcnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302114861904-kolc1qd68otbpavpiemtl48c9us937cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
